@@ -1,0 +1,208 @@
+.sign-up1 {
+  position: absolute;
+  top: 145px;
+  left: 20px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: -0.01em;
+  line-height: 130%;
+  display: inline-block;
+  font-family: var(--font-poppins);
+  width: 339px;
+}
+.log-in3 {
+  font-weight: 600;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 786px;
+  left: 89px;
+  line-height: 125%;
+  cursor: pointer;
+}
+.or-register-with {
+  position: absolute;
+  top: 638px;
+  left: 143px;
+  line-height: 125%;
+}
+.sign-in-child,
+.sign-in-item {
+  position: absolute;
+  top: 646.5px;
+  left: 259.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 114px;
+  height: 1px;
+}
+.sign-in-item {
+  left: 19.5px;
+}
+.title2 {
+  line-height: 125%;
+}
+.icon118,
+.text2,
+.title2 {
+  position: relative;
+}
+.text2 {
+  flex: 1;
+  line-height: 125%;
+}
+.icon118 {
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.input-field2 {
+  width: 353px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-lg) var(--padding-base);
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-base);
+}
+.error2 {
+  width: 31px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 125%;
+  font-weight: 500;
+  color: var(--color-crimson);
+  display: none;
+}
+.input2 {
+  position: absolute;
+  top: 222px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.icon119 {
+  width: 20px;
+  position: relative;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.input-field3 {
+  width: 353px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-lg) var(--padding-base);
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-base);
+}
+.input3,
+.input4 {
+  position: absolute;
+  top: 324px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-7xs);
+}
+.input4 {
+  top: 426px;
+}
+.button1 {
+  position: relative;
+  line-height: 125%;
+  font-weight: 600;
+}
+.button-primary1 {
+  position: absolute;
+  top: 544px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  width: 353px;
+  height: 56px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mid) var(--padding-133xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.google3 {
+  width: 48px;
+  position: relative;
+  line-height: 125%;
+  font-weight: 500;
+  display: none;
+}
+.social-icon-google-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.button-with-centered-icon3,
+.button-with-centered-icon4,
+.button-with-centered-icon5 {
+  position: absolute;
+  top: 678px;
+  left: 143px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 108px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-lg) var(--padding-26xl);
+}
+.button-with-centered-icon4,
+.button-with-centered-icon5 {
+  left: 20px;
+}
+.button-with-centered-icon5 {
+  left: 265px;
+}
+.icon121 {
+  position: absolute;
+  top: 27px;
+  left: 96px;
+  width: 200px;
+  height: 91.6px;
+  object-fit: cover;
+}
+.sign-in {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
